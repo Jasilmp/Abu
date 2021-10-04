@@ -27,12 +27,12 @@
         },
         "admin": {
             "BAN_DESC": "Ban someone in the group. Reply to message or tag a person to use command.",
-            "IM_NOT_ADMIN": "*njan admin alla macha☹️*",
+            "IM_NOT_ADMIN": "*ɴᴊᴀɴ ᴀᴅᴍɪɴ ᴀʟʟᴀ ᴀʙᴜ 🙁ᴠᴇᴋᴀᴍ ᴀᴅᴍɪɴᴏᴅ ᴘᴀʀᴀ*",
             "BANNED": "Mwonu Ok Bie!",
-            "GIVE_ME_USER": "*arelum mention chey😈!*",
+            "GIVE_ME_USER": "*ᴀʀᴇʟᴜᴍ ᴍᴇɴᴛɪᴏɴ ᴄʜᴀʏʏ😈!*",
             "ADD_DESC": "Adds someone to the group.",
             "ADDED": "added to the group!",
-            "ALREADY_PROMOTED": "```Avan admin anu nenpa🙃```",
+            "ALREADY_PROMOTED": "```ᴀᴠᴀɴ ᴀᴅᴍɪɴ ᴀɴᴜ ᴀʙᴜ🙃```",
             "PROMOTED": "```admin role was given!```",
             "PROMOTE_DESC": "Makes any person an admin.",
             "DEMOTE_DESC": "Takes the authority of any admin.",
@@ -243,7 +243,7 @@
             "INVALID_HEROKU": "*❌ Your Heroku information is wrong!*",
             "UPDATED": "*Update. aaki.. monuse😌 🤠✅*",
             "UPDATED_LOCAL": "*✅ Successfully Updated!*",
-            "AFTER_UPDATE": "*😎 SOPHIA Restarting*"
+            "AFTER_UPDATE": "*😎 ABU Restarting*"
         },
         "weather": {
             "WEATHER_DESC": "Shows the weather.",
