@@ -1,21 +1,21 @@
 {
-    "name": "Sophia public bot",
-    "description": "Sophia project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
-    "logo": "https://i.imgur.com/PwDQti2.jpeg",
+    "name": "✰ɪᴀͥᴍ ͣᴀͫʙᴜ ʙᴏᴛ✰",
+    "description": "✰ɪᴀͥᴍ ͣᴀͫʙᴜ ʙᴏᴛ✰ project - Makes it easy and fun to use Whatsapp. World’s first UserBot made for WhatsApp.",
+    "logo": "https://www.linkpicture.com/q/20210930_221359.jpg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
     "repository": "https://github.com/afnalplk/pikachu",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "ASENA_SESSION": {
+        "ABU_SESSION": {
             "description": "Qr.Js ile oluşturduğunuz özel session kodu. Type here yours Asena Session.",
             "required": true
         },
         "SUDO": {
             "description": "Leave blank if you don't know how to use it! Sudo mode; Your number must be an international number. So you should have your number after the country code. Example: 1205xxxxxxxxx (USA number +1)",
             "required": false,
-            "value": "919207866848,0"
+            "value": "917025994178,0"
         },
         "LANGUAGE": {
             "description": "Bot language. Azerice => az, English => en, Türkçe => tr, Malayalam => ml, Hindi => HI, Indonesia => ID, Español => ES, Portuguese => pt, Russian => ru",
@@ -52,7 +52,7 @@
             "required": false,
             "value": "990580a2e31add15990665b0"
         },
-         "TALKING_PINKY": {
+         "TALKING_ABU": {
             "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
             "required": true,
             "value": "false"
@@ -142,12 +142,12 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "I am ALIVE bro 🙂 coded by hisham-Muhammed"
+            "value": "✰ɪᴀͥᴍ ͣᴀͫʙᴜ ʙᴏᴛ✰ ᴛʜɪs ʙᴏᴛ ᴍᴀᴋᴇᴅ ʙʏ ᴀʙᴜsɪʀ 💖"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "😍ഗ്രൂപ്പിൽ നിന്ന് ലെഫ്റ്റ്😍 ആയവൻ 🤭നല്ലത് മാത്രം വരട്ടെ 😂"
         },
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
@@ -157,7 +157,7 @@
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "😍ഗ്രൂപ്പിൽ നിന്ന് ലെഫ്റ്റ്😍 ആയവൻ 🤭നല്ലത് മാത്രം വരട്ടെ 😂"
         },
         "PROMOTE_MESSAGE": {
             "description": "Customizable Promote Message! Use => default, to change back.",
@@ -177,7 +177,7 @@
         "GAN_IMAGE": {
             "description": "Gan Style eklentisi için resim bağlantısı yazın. Type image link for Gan Style plugin.",
             "required": true,
-            "value": "https://i.hizliresim.com/loUtAb.jpg"
+            "value": "https://www.linkpicture.com/q/20210930_221359.jpg"
         },
         "NO_ONLINE": {
             "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
